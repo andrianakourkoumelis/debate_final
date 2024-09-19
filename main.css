@@ -1,23 +1,21 @@
-/* CSS file*/
-
-/*Captions are grey*/
 
 figcaption {color: gray; font-style: italic;}
 
 p {font-family: Georgia, serif;}
 
+/*makes h1 elements uppercase*/
+
 h1 {text-transform: uppercase;}
 
-/*democrat blue, republican red*/
+figure{max-width: 600px;}
 
+img{max-width: 100%;}
 
 .red-text {
 	color: red}
-	{font-style: oblique;}
 
 .blue-text {
-	color: blue;
-}
+	color: royalblue;}
 
+h6 {color: gray; font-style: italic;}
 
-footer {color: gray; font-style: italic;}
